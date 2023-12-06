@@ -37,7 +37,7 @@ const SectionLeft = styled.section`
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
-  gap: 2rem;
+    gap: 2rem;
   & div{
       display: flex;
       justify-content: space-between;
@@ -45,6 +45,8 @@ const SectionLeft = styled.section`
       gap: 2rem;
   }
 `;
+
+
 
 const Button = styled.button`
 padding:1rem;
